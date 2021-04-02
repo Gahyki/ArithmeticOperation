@@ -1,7 +1,7 @@
 package soen.tutorial;
 
 import org.junit.Test;
-
+import static org.junit.Assert.fail;
 import static org.junit.Assert.assertEquals;
 
 public class ArithmeticOperationsTest {
